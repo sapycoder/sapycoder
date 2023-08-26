@@ -1,3 +1,4 @@
+<img alt="banner" src="https://github.com/sapycoder/sapycoder/blob/main/Hi%2C%20I%20am%20Shrutika%20Pandey.gif"> 
 <h1 align="center">Hi 👋, I'm Shrutika Pandey</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
