@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript and exploring Blockchain.**
 
-- 🌱 I am very passionate about learning and exploring new things.
+- ✨ I am very passionate about learning and exploring new things.
 
 - 📫 How to reach me **shrutika.rkt@gmail.com**
 
